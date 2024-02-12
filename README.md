@@ -5,4 +5,5 @@ Estoy aprendiendo a programar, conozco:
 - CSS
 - HTML
 - PHP
+- Phython
 - Ahora necesito aprender a usar **GIT**.
